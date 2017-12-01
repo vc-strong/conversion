@@ -1,3 +1,3 @@
 # conversion
-Scripts for conversions
+Scripts for conversions.
 This is a practice project from SWC.
